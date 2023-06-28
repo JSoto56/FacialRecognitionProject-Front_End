@@ -1,0 +1,11 @@
+.form {
+  width: 700px;
+  background:
+    radial-gradient(circle farthest-side at 0% 50%, #fcfcfc 23.5%, rgba(4,200,222,0) 0) 21px 30px,
+    radial-gradient(circle farthest-side at 0% 50%, #04C8DE 24%, rgba(4,200,222,0) 0) 19px 30px,
+    linear-gradient(#fcfcfc 14%, rgba(4,200,222,0) 0, rgba(4,200,222,0) 85%, #fcfcfc 0) 0 0,
+    linear-gradient(150deg, #fcfcfc 24%, #04C8DE 0, #04C8DE 26%, rgba(4,200,222,0) 0, rgba(4,200,222,0) 74%, #04C8DE 0, #04C8DE 76%, #fcfcfc 0) 0 0,
+    linear-gradient(30deg, #fcfcfc 24%, #04C8DE 0, #04C8DE 26%, rgba(4,200,222,0) 0, rgba(4,200,222,0) 74%, #04C8DE 0, #04C8DE 76%, #fcfcfc 0) 0 0,
+    linear-gradient(90deg, #04C8DE 2%, #fcfcfc 0, #fcfcfc 98%, #04C8DE 0) 0 0;
+  background-size: 40px 60px;
+}
